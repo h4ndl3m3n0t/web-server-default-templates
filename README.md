@@ -6,6 +6,4 @@
 
 ## Other Notes
 
-> I don't own the [Mr. Robot](https://www.fontspace.com/mrrobot-font-f29548) font.
-
 > I use [Google font(s)](https://fonts.google.com/), [bootstrap5](https://getbootstrap.com/) and [font awesome](https://fontawesome.com/) icon to build this page(s).
